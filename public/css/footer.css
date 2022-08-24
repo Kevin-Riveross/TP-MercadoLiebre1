@@ -1,0 +1,28 @@
+footer{
+    padding: 20px 15px 10px;
+    background-color: white;
+    margin: 4px;
+}
+
+footer section{
+    text-align: center;
+    color: var(--grisOscuro);
+    margin: 20px;
+    padding: 0 30px;
+    margin-bottom: 30px;
+}
+
+footer section i{
+    color: var(--celeste);
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+footer section h3{
+    color: var(--grisOscuro);
+}
+footer section:last-child{
+    text-align: start;
+    margin-bottom: 0;
+    padding: 0;
+}
